@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sara Assistant</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="btn_listen">Listen</string>
+    <string name="btn_wake_start">Start Wake Service</string>
+    <string name="btn_wake_stop">Stop Wake Service</string>
+    <string name="hint_command">Command yahan dikhega...</string>
+</resources>
